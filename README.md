@@ -27,5 +27,8 @@ The api used to get all the colors and color codes : https://jonasjacek.github.i
 
 
 This is how it looks like : 
-    
-![image](https://user-images.githubusercontent.com/36701679/139941416-05af1b95-517f-4b92-b40d-48c191890c2c.png)
+
+   ![image](https://user-images.githubusercontent.com/36701679/139951612-4b94ff0b-836f-4eea-98e6-a30619fb45dc.png)
+
+
+
