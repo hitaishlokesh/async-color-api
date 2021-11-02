@@ -52,7 +52,7 @@ const CharacterItem = ({ val }) => {
               <strong>Color name:</strong> {val.name}
             </ListNameLiStyle>
             <ListNameLiStyle>
-              <strong>Color Hex:</strong> {val.hexString}
+              <strong>Hex Value:</strong> {val.hexString}
             </ListNameLiStyle>
           </ul>
         </CardFront>
