@@ -14,11 +14,6 @@
     ● The data set relation must be documented in the readme.md of this project.
     ● For ex., you can get the google image search result of that word, find the dominant color of
       each image and display them as related color lists. 
-    
-    
-This is how it looks like : 
-    
-![image](https://user-images.githubusercontent.com/36701679/139941416-05af1b95-517f-4b92-b40d-48c191890c2c.png)
 
 
 To run the applicatoin : 
@@ -27,3 +22,10 @@ To run the applicatoin :
       2. Open code in an editor of your choice(preferably VsCode).
       3. Run npm i or npm install to download all the dependencies in the terminal. 
       4. Run npm start in the terminal. 
+
+The api used to get all the colors and color codes : https://jonasjacek.github.io/colors/
+
+
+This is how it looks like : 
+    
+![image](https://user-images.githubusercontent.com/36701679/139941416-05af1b95-517f-4b92-b40d-48c191890c2c.png)
