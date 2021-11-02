@@ -31,11 +31,13 @@ const NameColor = styled.h1`
   border-bottom: 1px #fff solid;
   padding-bottom: 10px;
   margin-bottom: 10px;
+  margin: 10px;
 `;
 
 const ListNameLiStyle = styled.li`
   list-style: none;
   padding-bottom: 10px;
+  margin: 10px;
 `;
 
 const CharacterItem = ({ val }) => {
