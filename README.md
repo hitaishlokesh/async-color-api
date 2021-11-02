@@ -19,3 +19,11 @@
 This is how it looks like : 
     
 ![image](https://user-images.githubusercontent.com/36701679/139941416-05af1b95-517f-4b92-b40d-48c191890c2c.png)
+
+
+To run the applicatoin : 
+
+      1. Clone or download as zip(if zip extract it locally) 
+      2. Open code in an editor of your choice(preferably VsCode).
+      3. Run npm i or npm install to download all the dependencies in the terminal. 
+      4. Run npm start in the terminal. 
